@@ -1,0 +1,58 @@
+body{
+	
+	width: 70%;
+}
+
+.advertisement
+
+
+{
+	
+	width:100px;
+	height:150px; 
+	border-color:black;
+	border-width:2px; 
+	background-color:gray; 
+	color:white;
+	float: left;
+	position : absolute;
+	left: 0px;
+	top:0px;
+	}
+	
+	.title{
+		
+		position:relative;
+		left:180px;
+	}
+  .header{
+	  display: flex;
+  }
+  
+
+ .image img {
+  width:250px; 
+  float: left;
+}
+.content {
+	 
+	display: inline-block;
+	position:relative;
+	margin-left: 150px;
+	text-align: justify;
+	
+}
+
+.logo img{
+	
+	float: left;
+	position : relative;
+	left: 150px;
+}
+.head{
+	position:relative;
+	margin-top:110px;
+	margin-left:70px;
+	text-align:center;
+}
+
